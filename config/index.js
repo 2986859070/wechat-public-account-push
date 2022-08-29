@@ -1,8 +1,5 @@
-export const config = {
-    /**
+export const config = 
      * 公众号配置
-     */
-
     // 公众号APP_ID
     APP_ID: "wxefe7fd2bf59f5a82",
     // 公众号APP_SECRET
@@ -11,12 +8,12 @@ export const config = {
     TEMPLATE_ID: "oHbSK5gmrENxH1cIgEDtFkANPYOQ",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
     USERS: ["oHbSK5gmrENxH1cIgEDtFkANPYOQ"],
+   
      
-    /**
      * 信息配置
-     */
+ 
 
-    /** 天气相关 */
+   /** 天气相关 */
 
     // 所在省份
     PROVINCE: "安徽",
