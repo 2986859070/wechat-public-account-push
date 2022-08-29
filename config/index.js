@@ -11,33 +11,18 @@ export const config =
    
      
      * 信息配置
- 
-
-   /** 天气相关 */
-
     // 所在省份
     PROVINCE: "安徽",
     // 所在城市
     CITY: "滁州",
 
-    /** 生日相关 */
-
     // 生日，修改名字为对应需要显示的名字, data 仅填月日即可, 请严格按照示例填写
     BIRTHDAYS: [
       {"name": "小陈", "year": "2023", "date": "02-21"},
-    
-
-    /** 日期相关 */
 
     // 在一起的日子，格式同上
     LOVE_DATE: "2022-05-21",
-   
-
-
-    /** 好文节选 */
-
-    // 好文节选的内容类型
-    // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
+  
     LITERARY_PREFERENCE: "有意义的人等再久都不算久，爱只会在没见面的日子里更加浓烈。It's never too long to wait for a meaningful person. Love will only grow stronger in the days when we haven't met."
 
 
